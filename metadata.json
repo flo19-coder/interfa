@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Charlas de Mantenimiento - Good Hope",
+  "description": "Sistema de registro de firmas y asistencias para charlas de 5 minutos del área de mantenimiento de la Clínica Adventista Good Hope.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
